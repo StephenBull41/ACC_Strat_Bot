@@ -10,6 +10,8 @@ How to use:
 5. run the script & follow prompts
 6. load the setup in game
 
+# Important Notes
+
 the script will create a new setup with "auto_" prefixed on the name
 e.g you edit setup "race test 35c opt" the new setup will be named "auto_race test 35c opt"
 
