@@ -56,7 +56,7 @@ for($i = 0; $i -lt 4; $i++){
 
 }
 
-for($i = 21; $i -lt 41; $i++){
+for($i = 21; $i -lt 46; $i++){
     
     #don't overwrite pressures already set, rounding might change them
     if($i -ne $tc -and $i -ne $tm -and $i -ne $th){
